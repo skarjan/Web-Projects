@@ -1,2 +1,7 @@
-# JS-Projects
-A collection of my projects in (vanilla!) JavaScript.
+# Vanilla Javascript Projects
+
+> Click on the links the open the projects.
+
+1. [Rock, paper, scissors, lizzard Spock.](https://avdveen.nl/spshs/)
+
+
